@@ -1,5 +1,6 @@
 {
   "name": "template",
+  "private": true,
   "version": "1.0.0",
   "description": "template",
   "author": "temp",
